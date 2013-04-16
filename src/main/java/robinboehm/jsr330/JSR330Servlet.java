@@ -1,7 +1,5 @@
 package robinboehm.jsr330;
 
-import de.objektpark.java.examples.guice.GuicyInterface;
-
 import javax.inject.Inject;
 import javax.inject.Singleton;
 import javax.servlet.ServletException;

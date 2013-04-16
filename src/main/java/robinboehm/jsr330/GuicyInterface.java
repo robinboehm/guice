@@ -1,4 +1,4 @@
-package de.objektpark.java.examples.guice;
+package robinboehm.jsr330;
 
 public interface GuicyInterface {
     String get();

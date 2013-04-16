@@ -4,8 +4,6 @@ import com.google.inject.Guice;
 import com.google.inject.Injector;
 import com.google.inject.servlet.GuiceServletContextListener;
 import com.google.inject.servlet.ServletModule;
-import de.objektpark.java.examples.guice.GuicyInterface;
-import de.objektpark.java.examples.guice.GuicyInterfaceImpl;
 
 import javax.servlet.annotation.WebListener;
 
